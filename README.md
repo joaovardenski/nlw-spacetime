@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/preview.png" alt="Demonstração do projeto" width="100%"/>
+  <img src="assets/Thumbnail-capsula-do-tempo.png" alt="Demonstração do projeto" width="100%"/>
 </p>
 
 ## 🖥️Projeto
